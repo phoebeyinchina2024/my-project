@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmImage: demoecs
+pool: demo-front-bo
 
 steps:
 - task: NodeTool@0
