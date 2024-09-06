@@ -1,5 +1,5 @@
 <template>
-  <div>Hello {{ value }}</div>
+  <div>{{ value }}</div>
 </template>
 
 <script>
